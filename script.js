@@ -2,12 +2,12 @@ const projects = [
   {
     title: "Numero secreto-ALURA",
     description: "Projeto que fez parte do curso ONE, uma parceira Alura e Oracle. É um jogo bem simples que o usuario tenta acertar um numero",
-    link: "#"
+    link: "https://github.com/andreondev/jogo-do-numero-secreto"
   },
   {
     title: "Linktree Creative Store",
     description: "Este projeto funciona como uma arvore de links, utilizando um designer simples e limpo que desenvolve para minha loja de roupas",
-    link: "#"
+    link: "https://github.com/andreondev/creative-store-links"
   },
   {
     title: "Bot Imprimer V1",
